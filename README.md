@@ -1,4 +1,4 @@
-# Machine Learning Text Classification
+# Newsgroups text classification Using Machine Learning
 
 ## Overview
 This project explores text classification using machine learning techniques on the **20 Newsgroups dataset**. The goal is to classify textual data into different news categories using various models, including:
